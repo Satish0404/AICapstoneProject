@@ -1,1 +1,1 @@
-# AICapstoneProject
+# Kidney Stone Detection Using AI
