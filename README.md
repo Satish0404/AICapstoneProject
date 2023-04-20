@@ -4,6 +4,8 @@ The dataset can be downloaded from the Kaggle link provided below:
 
 https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone?resource=download
 
+After downloading the dataset to your local you can use Jupyter or google colab to test.If using google colab mount the drive to the folder where the dataset is present.
+
 Dataset contains 12,446 images these are the combination of cyst, normal, stone, and tumor images. There are no null values in the dataset so no need to remove any data.
 Normal: 5077, Cyst: 3709, Tumor: 2283, Stone: 1377 images.
 
