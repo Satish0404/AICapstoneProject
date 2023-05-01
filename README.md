@@ -16,6 +16,7 @@ The dataset is split in 80% for training and 20% for testing. Implemented KNN, R
 Decided to move forward considering KNN and CNN algorithms. Used PCA as dimensionality reduction technique and tried with different k values and different hyperparameters combination to get the better performance. Implemented CNN with many layers and also included dropout layers ,maxpooling  layers and early stopping technique .
 
 Requirements for KidneyDetectionApp to run:
+
 Import all the packages below 
 Flask
 tensorflow
