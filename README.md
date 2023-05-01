@@ -17,37 +17,24 @@ Decided to move forward considering KNN and CNN algorithms. Used PCA as dimensio
 
 Requirements for KidneyDetectionApp to run:
 
-Import all the packages below 
-Flask
-tensorflow
-numpy
-Pillow
-scikit-image
-matplotlib
-keras
-split-folders
-scikit-learn
-seaborn
-streamlit
+Import packages - Flask , tensorflow , numpy , Pillow , scikit-image , matplotlib , keras , split-folders , scikit-learn , seaborn , streamlit
 
 commands to run :
 
-python app.py
+     python app.py
 
 Want to train the model and generate a new kid_desease_classification_model_CNN.h5 :
 
-python  train_save_model_CNN.py 
+     python  train_save_model_CNN.py 
 
 If you are using Mac with m1 chip 
 Pre-requisites:You need to set up a virtual environment 
 
-conda config –set auto_activate_base false
-
-conda activate mlp
-
-python app.py
+      conda config –set auto_activate_base false
+      conda activate mlp
+      python app.py
 
 IDE’s – 
 
-PyCharm
-Visual Studio Code
+      PyCharm
+      Visual Studio Code
