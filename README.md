@@ -30,18 +30,23 @@ seaborn
 streamlit
 
 commands to run :
+
 python app.py
 
 Want to train the model and generate a new kid_desease_classification_model_CNN.h5 :
+
 python  train_save_model_CNN.py 
 
 If you are using Mac with m1 chip 
-Pre-requisites:
-You need to set up a virtual environment 
+Pre-requisites:You need to set up a virtual environment 
+
 conda config –set auto_activate_base false
+
 conda activate mlp
+
 python app.py
 
 IDE’s – 
+
 PyCharm
 Visual Studio Code
